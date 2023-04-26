@@ -10,4 +10,4 @@ More specifically, the functions needed to compute the error
 growth after any homomorphic operation.
 
 ## Contact: 
-* If you find yourself in trouble, don't get all _hello darkness my old friend_, just email [Chiara Marcolla] (chiara.marcolla@tii.ae) and [Beatrice Biasioli](beatrice.biasioli@tii.ae).
+* If you find yourself in trouble, don't get all in _hello darkness my old friend_ mode, just email us [Chiara Marcolla](chiara.marcolla@tii.ae) and [Beatrice Biasioli](beatrice.biasioli@tii.ae).
